@@ -1,0 +1,7 @@
+[2026-10-21T02:34:09Z] === AST ITERATION 1 START | repo=piccolo-orm/piccolo_videos sha=1c96be8e ===
+[2026-10-21T02:34:09Z] [iter=1] PHASE START: ast repo=piccolo-orm/piccolo_videos sha=1c96be8e
+[2026-10-21T02:34:09Z] [iter=1] Building AST aggregate chunks
+[2026-10-21T02:34:11Z] [iter=1] AST chunks built count=1 triples=23059
+[2026-10-21T02:34:11Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1c96be8e65949bfab90bc0d68a9138946298d436/.complete
+[2026-10-21T02:34:11Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-21T02:34:11Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
